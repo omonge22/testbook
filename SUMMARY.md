@@ -1,23 +1,24 @@
 # Table of contents
 
-* [🖌 Getting started](README.md)
+* [👋 Welcome to A Product](README.md)
 
-## INTRODUCTION
+## Overview
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [💡 What we do](overview/what-we-do.md)
+* [✨ Our Features](overview/our-features.md)
 
-## identity
+## Product Guides
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [📪 Making a post](product-guides/making-a-post.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
 
-## Components
+## Fundamentals
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+
+## Use Cases
+
+* [🎨 For Designers](use-cases/for-designers.md)
+* [🖥 For Developers](use-cases/for-developers.md)
